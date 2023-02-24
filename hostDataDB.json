@@ -1,0 +1,15 @@
+{
+    "hostDataDB": [
+        {
+            "id":1,
+            "name":"Hari",
+            "roomNo":"11",
+            "email":"haricoimbatore@gmail.com",
+            "visitors":[
+                {
+                    "id":"1"
+                }
+            ]
+        }
+    ]
+}

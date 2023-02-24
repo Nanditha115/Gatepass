@@ -1,0 +1,20 @@
+{
+  "visitorDataDB": [
+    {
+      "name": "Nanditha",
+      "email": "nandithap1107@gmail.com",
+      "vehicleNumber": "678",
+      "roomNo": "45",
+      "purpose": "snacks",
+      "id": 1
+    },
+    {
+      "name": "Nanditha",
+      "email": "nandithap1107@gmail.com",
+      "vehicleNumber": "678",
+      "roomNo": "45",
+      "purpose": "snacks",
+      "id": 2
+    }
+  ]
+}
